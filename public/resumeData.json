@@ -16,13 +16,8 @@
       "zip": "54601"
     },
     "website": "wschauberger.com",
-    "resumedownload":"http://timbakerdev.com",
+    "resumedownload":"google.com",
     "social":[
-      {
-        "name":"facebook",
-        "url":"https://github.com/nordicgiant2/react-nice-resume",
-        "className":"fa fa-facebook"
-      },
       {
         "name":"twitter",
         "url":"http://twitter.com/snoowastaken",
