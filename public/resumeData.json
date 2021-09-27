@@ -94,6 +94,12 @@
         "category":"A Discord bot that does a little of everything",
         "image":"01.jpg",
         "url":"https://github.com/Weeaboo-Bot/discordbot"
+      },
+      {
+        "title":"This website!",
+        "category":"A website that acts as a resume and more in the future!",
+        "image":"02.jpg",
+        "url":"https://github.com/Snoowastaken/website"
       }
     ]
   }
