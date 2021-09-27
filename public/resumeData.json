@@ -16,7 +16,7 @@
       "zip": "54601"
     },
     "website": "wschauberger.com",
-    "resumedownload":"google.com",
+    "resumedownload":"./resume.pdf",
     "social":[
       {
         "name":"twitter",
