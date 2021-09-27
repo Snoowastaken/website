@@ -39,13 +39,11 @@ class About extends Component {
                     <br />
                     <span>
                       {street}
-                      <br />
-                      {city} {state}, {zip}
                     </span>
                     <br />
-                    <span>{phone}</span>
-                    <br />
                     <span>{email}</span>
+                    <br />
+                    <span>{phone}</span>
                   </p>
                 </div>
                 <div className="columns download">
